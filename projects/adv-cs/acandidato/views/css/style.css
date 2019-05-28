@@ -1,0 +1,10 @@
+body {
+	font-family: "Courier New";
+	font-size: 20pt;
+}
+.score {
+	width: 200px;
+}
+#scoreid {
+	text-align: center;
+}
