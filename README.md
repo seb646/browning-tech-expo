@@ -3,7 +3,7 @@
 The Browning School Tech Expo is a yearly event that showcases work from students throughout the school's Computer Science & Engineering (CSE) curriculum. </div><br>
 
 ## Student Projects
-Listed below are all of the courses displayed on this website. Each project was built by a student using either HTML/CSS, JavaScript, or a combination both, depending on the level of the course.
+Listed below are all of the courses with projects displayed on this website. Each project was built by a student using either HTML/CSS, JavaScript, or a combination of the two, depending on the level of the course.
 * [Advanced Computer Science (Grades 11 & 12)](https://seb646.com/tech-expo/projects/adv-cs/index.html)
 * [Intro to Computer Programming (Grade 10)](https://seb646.com/tech-expo/projects/form-iv/index.html)
 * [Computer Science & Engineering (Grade 9)](https://seb646.com/tech-expo/projects/form-iii/index.html)
