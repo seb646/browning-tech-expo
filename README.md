@@ -11,4 +11,4 @@ Listed below are all of the courses with projects displayed on this website. Eac
 * [Computer Science & Engineering (Grade 6)](https://seb646.com/tech-expo/projects/grade-6/index.html)
 
 ## Credits
-Copyright (c) 2019 [The Browning School](https://www.browning.edu/) Department of Computer Science & Engineering (CSE). Built by [Sebastian Rodriguez](https://seb646.com) using the [Tachhyons.io](http://tachyons.io/) CSS library. Released under the [MIT license](https://github.com/seb646/browning-tech-expo/blob/master/LICENSE).
+Copyright (c) 2019 [The Browning School](https://www.browning.edu/) Department of Computer Science & Engineering (CSE). Released under the [MIT license](https://github.com/seb646/browning-tech-expo/blob/master/LICENSE). Built by [Sebastian Rodriguez](https://seb646.com) using the [Tachhyons.io](http://tachyons.io/) CSS library. 
