@@ -1,6 +1,6 @@
 <div align="center"><a href="https://www.browning.edu/technology-home"><img src="https://seb646.com/tech-expo/assets/cse.png" alt="The Browning School Department of Computer Science & Engineering (CSE)" width="500"/></a> 
 
-The Browning School's Tech Expo is a yearly event that showcases work from students throughout <br>the school's Computer Science & Engineering (CSE) curriculum. <br>
+The Tech Expo is an annual event that showcases work from students throughout <br>the Browning's Computer Science & Engineering (CSE) curriculum. <br>
 
 <a href="https://seb646.com/tech-expo">The 2019 Tech Expo Website</a></div><br>
 
