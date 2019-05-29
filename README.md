@@ -1,4 +1,4 @@
-<div align="center"><a href="https://seb646.com/tech-expo"><img src="http://seb646.com/tech-expo/assets/cse.png" alt="The Browning School Department of Computer Science & Engineering (CSE)" width="500"/></a> 
+<div align="center"><a href="https://seb646.com/tech-expo"><img src="https://seb646.com/tech-expo/assets/cse.png" alt="The Browning School Department of Computer Science & Engineering (CSE)" width="500"/></a> 
 
 The Browning School's Tech Expo is a yearly event that showcases work from students throughout <br>the school's Computer Science & Engineering (CSE) curriculum. </div><br>
 
@@ -11,4 +11,4 @@ Listed below are all of the courses with projects displayed on this website. Eac
 * [Computer Science & Engineering (Grade 6)](https://seb646.com/tech-expo/projects/grade-6/index.html)
 
 ## Credits
-Copyright (c) 2019 [The Browning School](https://www.browning.edu/) Department of Computer Science & Engineering (CSE). Built by [@seb646](https://github.com/seb646) using the [Tachhyons.io](http://tachyons.io/) CSS library. Released under the [MIT license](https://github.com/seb646/browning-tech-expo/blob/master/LICENSE).
+Copyright (c) 2019 [The Browning School](https://www.browning.edu/) Department of Computer Science & Engineering (CSE). Built by [Sebastian Rodriguez](https://seb646.com) using the [Tachhyons.io](http://tachyons.io/) CSS library. Released under the [MIT license](https://github.com/seb646/browning-tech-expo/blob/master/LICENSE).
