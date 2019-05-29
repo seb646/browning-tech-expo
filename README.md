@@ -1,6 +1,8 @@
-<div align="center"><a href="https://seb646.com/tech-expo"><img src="https://seb646.com/tech-expo/assets/cse.png" alt="The Browning School Department of Computer Science & Engineering (CSE)" width="500"/></a> 
+<div align="center"><a href="https://www.browning.edu/technology-home"><img src="https://seb646.com/tech-expo/assets/cse.png" alt="The Browning School Department of Computer Science & Engineering (CSE)" width="500"/></a> 
 
-The Browning School's Tech Expo is a yearly event that showcases work from students throughout <br>the school's Computer Science & Engineering (CSE) curriculum. </div><br>
+The Browning School's Tech Expo is a yearly event that showcases work from students throughout <br>the school's Computer Science & Engineering (CSE) curriculum. <br><br>
+
+<a href="https://seb646.com/tech-expo">Tech Expo 2019</a></div><br>
 
 ## Student Projects
 Listed below are all of the courses with projects displayed on this website. Each project was built by a student using either HTML/CSS, JavaScript, or a combination of the two, depending on the level of the course.
