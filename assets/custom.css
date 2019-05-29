@@ -8,7 +8,7 @@
 
 nav{
     background: #c10200;
-    border-bottom: 4px solid #8f0606;
+    border-bottom: 3px solid #950000;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
 }
@@ -30,7 +30,6 @@ header{
     background: url("https://static1.squarespace.com/static/52fe3eade4b053964a5a8341/59302c9a2e69cfc41e00bf32/59302ca1c534a516bdc82f38/1496329643656/DSC_0203.jpg?format=1500w");
     background-size: cover;
     background-position: 0 -300px;
-    border-bottom: 4px solid #8f0606;
 }
 
 header .overlay{
